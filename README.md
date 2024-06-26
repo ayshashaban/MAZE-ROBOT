@@ -22,6 +22,6 @@ Engineered a robotic car designed to navigate through mazes using ultrasonic sen
 
 You can find the circuit used in the project [here](https://github.com/ayshashaban/MAZE-Robot/blob/main/circuit.png)
 
-## code
+## Code
 
 You can find the code used in the project [here](https://github.com/ayshashaban/MAZE-Robot/blob/main/code.pm)

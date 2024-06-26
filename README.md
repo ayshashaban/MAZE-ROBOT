@@ -8,6 +8,7 @@ Engineered a robotic car designed to navigate through mazes using ultrasonic sen
 -  **Arduino NANO.**
 -  **Motor Driver L298n.**
 -  **2 DC Motors.**
+-  **Caster wheel.**
 -  **Power Supply.**
 -  **3 Ultrasonic Sensors.**
 -  **Connecting Wiers.**
